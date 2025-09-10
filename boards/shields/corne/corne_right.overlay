@@ -1,7 +1,1 @@
-&keymap {
-    compatible = "zmk,keymap";
-};
 
-&nice_nano_v2 {
-    /* Optional SPI / LED bus nếu cần */
-};
